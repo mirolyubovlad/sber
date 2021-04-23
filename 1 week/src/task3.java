@@ -13,6 +13,7 @@ public class task3 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int r = (int) (Math.random() * 10) +1;
+        System.out.println("Введи число от 1 до 10");
 
         int i = 11;
 
