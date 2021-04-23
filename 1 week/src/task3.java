@@ -14,8 +14,6 @@ public class task3 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int r = (int) (Math.random() * 10) +1;
 
-        System.out.println("r = " + r);
-
         int i = 11;
 
         while (i != r)
